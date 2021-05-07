@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+}
+#home {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    font-size: 150%;
+}
+
+#videos iframe
+{
+width:100%; 
+}
+
+
+.com_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.com_head i
+{
+float: right;
+}
+
+.com_text span
+{
+color: #ff7700;
+}
+
+#mkg{
+height:250px; 
+width:250px; 
+}
